@@ -1,0 +1,6 @@
+mitbih_train.csv
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
